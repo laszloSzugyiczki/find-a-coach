@@ -1,4 +1,7 @@
-# find-coach
+# find-a-coach Vue demo app
+
+## Try it here:
+https://vue-http-demo-b13cc.web.app
 
 ## Project setup
 ```
